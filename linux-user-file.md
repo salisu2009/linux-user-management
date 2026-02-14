@@ -132,18 +132,18 @@ id ogochukwu
 
 ---
 
-## Step 4 – Create Company Directories
+## Step 4 – Create Company Files
 
-All company document directories were created under `/company_docs/`.
+All company document files were created 
 
 ```bash
-sudo mkdir -p /company_docs/finance_budgets
-sudo mkdir -p /company_docs/contract_documents
-sudo mkdir -p /company_docs/business_projections
-sudo mkdir -p /company_docs/business_models
-sudo mkdir -p /company_docs/employee_data
-sudo mkdir -p /company_docs/vision_mission_statement
-sudo mkdir -p /company_docs/server_config_scripts
+sudo touch finance_budgets
+sudo touch contract_documents
+sudo touch business_projections
+sudo touch business_models
+sudo touch employee_data
+sudo touch vision_mission_statement
+sudo touch server_config_scripts
 ```
 
 > **Verify directories were created:**
