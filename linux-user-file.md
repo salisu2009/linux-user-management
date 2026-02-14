@@ -228,27 +228,20 @@ getfacl /company_docs/server_config_scripts
 
 ---
 
-## Screenshots
-
 ### Users Created
-<!-- Replace with your actual screenshot -->
-![Users Created](./screenshots/users-created.png)
+![Users Created](adduser.png)
 
 ### Groups Created
-<!-- Replace with your actual screenshot -->
-![Groups Created](./screenshots/groups-created.png)
+![Groups Created](getent%20group.png)
 
-### Directories Created
-<!-- Replace with your actual screenshot -->
-![Directories Created](./screenshots/directories-created.png)
+### Changing Group Ownership
+![Chgrp Files](chgrp%20files.png)
+
+### Changing File Ownership
+![Chown of File](chown%20of%20file.png)
 
 ### Directory Permissions
-<!-- Replace with your actual screenshot -->
-![Directory Permissions](./screenshots/directory-permissions.png)
-
-### ACL Permissions
-<!-- Replace with your actual screenshot -->
-![ACL Permissions](./screenshots/acl-permissions.png)
+![Permissions](permissions.png)
 
 ---
 
