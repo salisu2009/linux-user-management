@@ -232,13 +232,13 @@ getfacl /company_docs/server_config_scripts
 ![Users Created](adduser.png)
 
 ### Groups Created
-![Groups Created](getent%20group.png)
+![Groups Created](getent-group.png)
 
 ### Changing Group Ownership
-![Chgrp Files](chgrp%20files.png)
+![Chgrp Files](chgrp-files.png)
 
 ### Changing File Ownership
-![Chown of File](chown%20of%20file.png)
+![Chown of File](chown-of-file.png)
 
 ### Directory Permissions
 ![Permissions](permissions.png)
